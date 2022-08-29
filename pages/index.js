@@ -28,7 +28,7 @@ export default function Home() {
           </Link>
         </li>
       </div>
-      <div className="w-full  py-5  2xl:w-[1536px] 2xl:mx-auto   ">
+      <div className="w-full  py-5  2xl:w-[1536px] 2xl:mx-auto">
         <Image src={hand} layout="responsive" alt="homepage" />
       </div>
       <div className="w-full font-lato font-medium  lg:px-10 xl:px-12   md:w-[85%] xl:w-[1280px] mx-auto">
